@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/xrichyxdevalt/botdevelopment?style=for-the-badge&color=yellow)](https://github.com/xrichyxdevalt/botdevelopment/stargazers)
 [![GitHub downloads](https://img.shields.io/github/downloads/xrichyxdevalt/botdevelopment/total?style=for-the-badge&color=blue)](https://github.com/xrichyxdevalt/botdevelopment/releases)
-[![License](https://img.shields.io/badge/License-.xrichyx%20EULA-green?style=for-the-badge)](https://github.com/xrichyxdevalt/botdevelopment/blob/main/LICENCE)
+[![License](https://img.shields.io/badge/License-.xrichyx%20EULA-green?style=for-the-badge)](https://github.com/xrichyxdevalt/botdevelopment?tab=License-1-ov-file)
 [![Discord](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bxdAuXCBcr)
 
 ---
@@ -61,7 +61,7 @@ The code is **open-source for personal use and learning purposes only**.
 ### 📅 Updates:
 This license may be updated at any time, but **a 10-day notice** will be given before changes take effect.
 
-By using or downloading this code, you agree to the full [EULA](https://github.com/xrichyxdevalt/botdevelopment/blob/main/LICENCE).
+By using or downloading this code, you agree to the full [EULA](https://github.com/xrichyxdevalt/botdevelopment?tab=License-1-ov-file).
 
 ---
 
