@@ -1,0 +1,65 @@
+END USER LICENSE AGREEMENT (EULA)
+For .xrichyx Discord Bots
+Last Updated: November 6, 2025
+Owner: .xrichyx
+
+---
+
+1. OWNERSHIP
+All code, assets, and intellectual property related to the Discord bots developed by ".xrichyx" are the exclusive property of .xrichyx.
+While the source code is publicly available (open-source), it remains copyrighted and protected.
+By downloading, using, or modifying this code, you acknowledge that all rights belong to .xrichyx, and you may not claim the code or any part of it as your own.
+
+---
+
+2. PERMISSIONS TO MODIFY
+You are permitted to modify specific configuration values required for proper setup, including:
+- Bot Token
+- Owner ID
+- Guild ID
+- Bot Status / Activity
+
+You may not alter, remove, or bypass any part of the backend (client-side) or core logic of the code unless explicitly permitted by .xrichyx.
+
+---
+
+3. RESTRICTIONS
+Even though the project is open-source, you agree not to:
+- Redistribute, rebrand, or resell the code under another name.
+- Claim the project, bot, or any of its code as your own.
+- Remove or modify credits to the original creator (.xrichyx).
+- Tamper with, obfuscate, or strip identifying information from the bot.
+
+This code is open for learning, self-hosting, and contribution — not for theft or republishing.
+Violations may result in removal of access or a DMCA takedown.
+
+---
+
+4. HOSTING & RESPONSIBILITY
+The creator (.xrichyx) only hosts their own bots and does not host or maintain any user-run instances.
+If you choose to self-host, you are fully responsible for your own setup, data, and performance.
+No guarantees or uptime support are provided for self-hosted versions.
+
+---
+
+5. LIABILITY
+All bots and code are provided "as is" with no warranties or guarantees of any kind.
+.xrichyx is not responsible for any damage, data loss, or account issues caused by use or misuse of the code.
+Use the bots and source code at your own risk.
+
+---
+
+6. UPDATES & REVISIONS
+This EULA may be updated or changed at any time.
+However, a 10-day notice will be provided before any new terms officially take effect.
+You are responsible for reviewing the latest version to remain compliant.
+
+---
+
+7. ACCEPTANCE OF TERMS
+By downloading, using, or hosting any Discord bot created by .xrichyx, you automatically agree to all terms listed in this EULA.
+If you do not agree with these terms, you must not download, modify, or use the bots in any way.
+
+---
+
+© 2025 .xrichyx — All Rights Reserved
