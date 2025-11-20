@@ -51,9 +51,9 @@ Possible future additions:
 
 ---
 
-### 🎫 Ticket Bot — **Beta v1.0**
+### 🎫 Ticket Bot — **v1.0**
 A modern and organized Ticket Bot designed for clean support systems.  
-Currently in **Beta v1.0**, meaning fully functional but still being improved.
+Currently in **v1.0**, meaning fully functional but still being improved.
 
 Current features:
 - Ticket creation through buttons  
@@ -66,7 +66,7 @@ Current features:
 - **Admin-only ticket controls**  
 - **Priority levels / ticket tags**  
 
-Planned during beta:
+Planned during other updates:
 - Enhanced transcript formatting  
 - More panel customization  
 - Cleaner embed UI  
